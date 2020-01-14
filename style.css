@@ -18,28 +18,47 @@ nav ul {
   display: flex;
 }
 
-.left {
-  display: flex;
-  /* justify-content: space-between; */
-  justify-items: self-start;
-  padding-top: 15px;
-  margin-left: 150px;
-  padding-right: 10px;
-}
+
 
 .center {
   background-color: chartreuse;
-  width: 70%;
+  width: 40%;
+  display: block;
+  position: relative;
+  left: 20px;
+  margin: 0 auto;
 }
 
 .center input[type='text'] {
-  width: 150%;
+  width: 90%;
+  padding: 10px 10px;
+  margin-top: 4px;
+}
+
+.center button{
+  margin-left: -10px;
+  padding: 10px 20px;
+  margin-top: 4px;
 }
 
 .right {
   display: flex;
-  justify-content: space-evenly;
-  justify-items: self-end;
+  justify-content: space-around;
+  justify-items: flex-end;
+  justify-self: flex-end;
   padding-top: 15px;
-  margin-right: 150px;
+  margin-left: auto;
+  
+  width: 20%;
+  /* position: relative; */
+  /* left: 140px; */
+}
+
+.left {
+  display: flex;
+  justify-content: space-evenly;
+  width: 10%;
+  padding-top: 15px;
+  margin-right: auto;
+
 }
