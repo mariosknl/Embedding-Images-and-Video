@@ -19,7 +19,7 @@ nav ul {
 }
 
 .center {
-  background-color: chartreuse;
+  background-color: pink;
   width: 40%;
   display: block;
   position: relative;
@@ -99,4 +99,35 @@ aside p {
   float: right;
   margin-right: 70px;
   padding-top: 20px;
+}
+
+.video-info {
+  width: 60%;
+  position: relative;
+  top: 50px;
+  background-color: blue;
+  left: 40px;
+  border-bottom: 1px thin grey;
+
+}
+
+.video-info ul{
+  list-style: none;
+
+}
+
+.video-info-left{
+padding-top: 30px;
+
+}
+
+.video-info-right{
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+  width: 40%;
+  justify-content: space-around;
+  padding-bottom: 15px;
+
+
 }
