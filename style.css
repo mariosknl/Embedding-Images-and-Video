@@ -25,6 +25,12 @@ nav a {
   cursor: pointer;
 }
 
+nav img {
+width: 50px;
+position: relative;
+bottom: 7px;
+}
+
 .center {
   width: 40%;
   display: block;
@@ -40,9 +46,11 @@ nav a {
 }
 
 .center button {
-  margin-left: -5px;
+  position: relative;
+  right: 60px;
   padding: 11px 20px;
   margin-top: 4px;
+  
 }
 
 .right {
