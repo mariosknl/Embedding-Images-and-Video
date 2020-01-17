@@ -72,7 +72,7 @@ nav img {
 
 /* Youtube Video */
 
-main iframe {
+main embed {
   width: 60%;
   height: 600px;
   position: relative;
