@@ -13,17 +13,17 @@ Live Demo Link
 https://raw.githack.com/mariosknl/Embedding-Images-and-Video/third/index.html
 
 Authors
+
 👤 Author1
 
 Marios Kanellopoulos
 Github: https://github.com/mariosknl
 Twitter: @MariosKnl
 Linkedln: https://www.linkedin.com/in/marios-kanellopoulos-a99332181/
-Φ
 
 Author 2
 
-kotoku kennedy
+Kotoku Kennedy
 Github: https://github.com/kotoku-code
 Twitter: @kennedykotoku
 Linkedln: https://www.linkedin.com/in/kotoku-kennedy-5b04a9128/
