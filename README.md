@@ -21,7 +21,7 @@ Github: https://github.com/mariosknl
 Twitter: @MariosKnl
 Linkedln: https://www.linkedin.com/in/marios-kanellopoulos-a99332181/
 
-Author 2
+👤 Author 2
 
 Kotoku Kennedy
 Github: https://github.com/kotoku-code
