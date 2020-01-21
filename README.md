@@ -10,7 +10,10 @@ HTML & CSS
 
 Live Demo Link
 
-https://raw.githack.com/mariosknl/Embedding-Images-and-Video/master/index.html
+
+https://raw.githack.com/mariosknl/Embedding-Images-and-Video/corrections/index.html
+
+
 
 Authors
 
@@ -21,7 +24,7 @@ Github: https://github.com/mariosknl
 Twitter: @MariosKnl
 Linkedln: https://www.linkedin.com/in/marios-kanellopoulos-a99332181/
 
-Author 2
+👤 Author 2
 
 Kotoku Kennedy
 Github: https://github.com/kotoku-code
