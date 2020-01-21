@@ -10,8 +10,7 @@ HTML & CSS
 
 Live Demo Link
 
-https://raw.githack.com/mariosknl/Embedding-Images-and-Video/third/index.html
-
+https://raw.githack.com/mariosknl/Embedding-Images-and-Video/corrections/index.html
 Authors
 
 👤 Author1
