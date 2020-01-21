@@ -66,6 +66,21 @@ nav img {
 	color: #606060;
 }
 
+.right img {
+	width: 25px;
+	top: 5px;
+}
+
+.right a i {
+	position: relative;
+	top: 5px;
+}
+
+#accounts {
+	position: absolute;
+	top: 17px;
+}
+
 .left {
 	display: flex;
 	justify-content: space-evenly;
